@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<bug report>
+<bug_report>
   <ID>1234</ID>
   <project>asap</project>
   <priority>normal</priority>
   <platform>Google Chrome</platform>
-</bug report>
+</bug_report>
   
